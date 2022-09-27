@@ -10,7 +10,8 @@ body{
 .cabecalho{
     padding: 30px 30px;
     position: relative;
-    background-color: rgb(212, 196, 181);
+    background:url(../images/backgroudimg.png);
+    width: 100%;
 }
 
 .cabecalho .logo{
@@ -18,9 +19,11 @@ body{
     width: 250px;
     height:250px;
     display: flex;
+    
 }
 .cabecalho .logo h1{
     font-size: 0;
+    
 }
 
 .cabecalho nav{
